@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "WebDevBasics",
+			"path": "/Users/naoyuki/专业课/html css js/WebDevBasics"
+		},
+		{
+			"name": "mod2_solution",
+			"path": "/Users/naoyuki/专业课/html css js/mod2_solution"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebDevBasics"
+	}
+}
