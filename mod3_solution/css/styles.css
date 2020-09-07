@@ -21,7 +21,7 @@ body {
   width:20px;
   height: 20px;
 }
-#logo-img {
+.logo-img {
   background: url('/images/deer.png') no-repeat;
   width: 150px;
   height: 150px;
