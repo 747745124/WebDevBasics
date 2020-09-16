@@ -1,2 +1,3 @@
 # WebDevBasics
-http js css
+Coursera Course - JHU - Yaakov Chaikin
+Answered by Naoyuki Li
