@@ -84,7 +84,7 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
     $ajaxUtils.sendGetRequest(
       allCategoriesUrl,
       buildAndShowHomeHTML, // ***** <---- TODO: STEP 1: Substitute [...] ******
-      true); // Explicitely setting the flag to get JSON from server processed into an object literal
+      true); // Explicitly setting the flag to get JSON from server processed into an object literal
   });
   // *** finish **
 
